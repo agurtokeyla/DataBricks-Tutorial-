@@ -33,6 +33,13 @@ This preserves the learning objectives of the tutorial while remaining fully com
 - Name
 - Count of babies with that name
 
+- ## Visualization Example
+
+Below is the visualization generated in the Databricks notebook:
+
+![Baby Name Visualization](Screenshot%202025-12-04%20212700.png)
+
+
 ---
 
 ## Key Concepts Demonstrated
